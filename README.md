@@ -13,11 +13,11 @@ Run development server `$ python manage.py runserver`<br>
 
 For more notes, take a look at the [notes folder](https://github.com/AnniePawl/Django-Poll-App/tree/master/django_notes) in this repo.<br>
 
-**Models:** Check out my [model notes](https://github.com/AnniePawl/Django-Poll-App/blob/master/django_notes/Models.md) <br>
+**Models:** Check out my [model notes](https://github.com/AnniePawl/Django-Poll-App/blob/master/django_notes/Models.md)
 
-**Templates:** Check out my [template notes](https://github.com/AnniePawl/Django-Poll-App/blob/master/django_notes/Templates.md) <br>
+**Templates:** Check out my [template notes](https://github.com/AnniePawl/Django-Poll-App/blob/master/django_notes/Templates.md)
 
-**Views:** Check out my [view notes](https://github.com/AnniePawl/Django-Poll-App/blob/master/django_notes/Views.md) <br>
+**Views:** Check out my [view notes](https://github.com/AnniePawl/Django-Poll-App/blob/master/django_notes/Views.md)
 
 ### Basic steps to create an app
 
